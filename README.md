@@ -6,7 +6,7 @@ This repository contains a complete Retail Analytics portfolio project built usi
 The project replicates real-world retail analytics work, including KPI monitoring, product return quality analysis, and RFM customer segmentation.
 
 🗂️ Repository Structure
-
+```
 Retail_Project/
 
 ├── data_raw/                 # Original raw data
@@ -17,6 +17,7 @@ Retail_Project/
 ├── images/                   # Dashboard screenshots (for GitHub preview)
 ├── .gitignore
 └── README.md
+```
 
 📁 Datasets
 Raw Data (Not Modified)
