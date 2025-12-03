@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# Excel or zipped large raw data
+*.zip
+*.xlsx
+
+# Hidden system files
+Thumbs.db
