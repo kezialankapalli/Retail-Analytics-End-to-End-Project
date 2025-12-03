@@ -77,7 +77,7 @@ This project demonstrates real analytics workflows:
 * Creating business dashboards with Tableau
 * Understanding retail KPIs, customer behavior & return patterns
 * Creating a unified portfolio project with multiple dashboards
-
+```
 🚀 How to Run the Project
 1️⃣ Clone the repository
 git clone <your GitHub repo link>
@@ -91,6 +91,7 @@ python Python/00_prepare_data.py
 python Python/views_csv.py
 4️⃣ Open Tableau files
 Open .twbx files from the Tableau/ folder in Tableau Public Desktop.
+```
 
 📬 Contact / Portfolio
 * Tableau Public:https://public.tableau.com/app/profile/kezialankapalli/vizzes
