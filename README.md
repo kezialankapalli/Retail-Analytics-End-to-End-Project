@@ -1,4 +1,5 @@
 📊 Retail Analytics – End-to-End SQL, Python & Tableau Project
+```
 This repository contains a complete Retail Analytics portfolio project built using:
 * SQL (data cleaning, modeling, aggregated views)
 * Python (preprocessing & exporting analytical datasets)
